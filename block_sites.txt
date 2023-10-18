@@ -3,7 +3,7 @@
 ||cnet.com^
 ||nytimes.com^
 ||theverge.com^
-||macrumors.com
+||macrumors.com^
 ||aljazeera.com^
 ||appleinsider.com^
 ||timesofisrael.com^
