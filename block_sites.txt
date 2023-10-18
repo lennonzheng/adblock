@@ -1,4 +1,4 @@
-||cnn.com^
+domain=cnn.com
 ||bbc.com^
 ||cnet.com^
 ||nytimes.com^
