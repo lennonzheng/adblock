@@ -1,0 +1,10 @@
+||cnn.com^
+||bbc.com^
+||cnet.com^
+||nytimes.com^
+||theverge.com^
+||macrumors.com
+||aljazeera.com^
+||appleinsider.com^
+||timesofisrael.com^
+||washingtonpost.com^
