@@ -1,10 +1,15 @@
-||cnn.com^
 ||bbc.com^
+||cnn.com^
 ||cnet.com^
+||apnews.com^
+||9to5mac.com^
+||haaretz.com^
 ||nytimes.com^
 ||theverge.com^
-||macrumors.com^
+||weather.com^
 ||aljazeera.com^
+||macrumors.com^
+||sfchronicle.com^
 ||appleinsider.com^
 ||timesofisrael.com^
 ||washingtonpost.com^
